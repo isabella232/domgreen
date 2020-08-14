@@ -1,3 +1,3 @@
 ### Hi I'm Dom 👋
 
-![dom](./Dom.png)
+![dom](https://github.com/domgreen/domgreen/blob/master/Dom.png)
