@@ -1,3 +1,3 @@
 ### Hi I'm Dom 👋
 
-![dom](Dom.png)
+![dom](./Dom.png)
